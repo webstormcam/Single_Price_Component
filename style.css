@@ -3,7 +3,7 @@
 }
 body{
     margin: 0px;
-    background-color: hsl(218, 22%, 67%);
+    background-color: hsl(204, 43%, 93%);
     font-size: 16px;
     font-family: 'Karla', sans-serif;
     display: flex;
@@ -16,10 +16,27 @@ body{
 main{
     background-color: #fff;
     width: 375px;
-    border-top-right-radius: 15px;
-    border-top-left-radius: 15px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
     padding: 20px;
     margin-top: 65px;
+}
+
+h1{
+    font-size: 25px;
+    color: hsl(179, 62%, 43%);
+}
+
+.green{
+   color: hsl(71, 73%, 54%);
+   font-weight: bold;
+   font-size: 18px;
+}
+
+.grey{
+    color: hsl(218, 22%, 67%);
+    line-height: 30px;
+    font-size: 15px;
 }
 
 #moreinfo{
@@ -37,6 +54,17 @@ main{
   
 }
 
+.sub{
+    color: #fff;
+    font-size: 22px;
+}
+
+.num{
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+}
+
 
 .button{
     display: inline-block;
@@ -46,7 +74,7 @@ main{
     width: 375px;
     background-color: hsla(179, 62%, 43%, 0.678);
     padding: 20px;
-    border-bottom-right-radius: 15px;
-    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
 }
 
