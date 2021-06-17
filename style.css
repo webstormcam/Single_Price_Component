@@ -133,6 +133,10 @@ h1{
       flex-direction: row;
   }
 
+  #buttondiv{
+justify-content: flex-start;
+  }
+
   .part2{
     border-bottom-left-radius: 10px;
     padding: 40px;
