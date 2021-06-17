@@ -125,6 +125,10 @@ h1{
       font-size: 24px;
   }
 
+  .grey{
+      font-size: 18px;
+  }
+
   .pickle{
       display: block;
   }
