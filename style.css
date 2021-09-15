@@ -115,9 +115,9 @@ h1{
     display: none;
 }
 
-@media screen and (min-width:1440px){
+@media screen and (min-width:1024px){
   main{
-      margin-top: 150px;
+      margin-top: 100px;
       width: 750px;
       padding: 30px;
   }
